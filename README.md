@@ -85,6 +85,7 @@ Circuit Connection – Step 4
 
 For output voltage, now we need to connect three output cables with the circuit. We connect output positive cable with capacitor positive leg, connect output negative cable with capacitor negative leg and connect output ground cable with the place, where capacitor positive and negative leg is connected.
 
+We utilize JLCPCB (https://jlcpcb.com/RTA) to printout our PCB.
 
 Steps to Order PCBs from JLCPCB
 
